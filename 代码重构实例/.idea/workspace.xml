@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5bb2c5e-3fe1-4141-bf75-1137d2bce7b5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZSzAJqz89bpsvxnfjFD8lu8aH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\EEworkspace\SpringModel\src\Test\Utils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\EEworkspace\SpringModel\src" />
+      <recent name="F:\EEworkspace\SpringModel\lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mainTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test.test.mainTest" />
+      <module name="SpringModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Test.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.mainTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5bb2c5e-3fe1-4141-bf75-1137d2bce7b5" name="Default Changelist" comment="" />
+      <created>1585045382178</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585045382178</updated>
+      <workItem from="1585045385774" duration="2158000" />
+      <workItem from="1585126448613" duration="6807000" />
+      <workItem from="1585180943834" duration="15820000" />
+      <workItem from="1585198968160" duration="5894000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#SQL_Dialects" timestamp="1585183735311">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="261" y="0" key="#SQL_Dialects/0.0.1536.824@0.0.1536.824" timestamp="1585183735311" />
+    <state x="223" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585131606357">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585131606357" />
+    <state x="530" y="22" key="#com.intellij.ide.util.MemberChooser" timestamp="1585203622581">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="530" y="22" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1585203622581" />
+    <state x="436" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585193153566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="436" y="103" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1585193153566" />
+    <state width="1485" height="291" key="GridCell.Tab.0.bottom" timestamp="1585203772711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585203772711" />
+    <state width="1485" height="291" key="GridCell.Tab.0.center" timestamp="1585203772710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585203772710" />
+    <state width="1485" height="291" key="GridCell.Tab.0.left" timestamp="1585203772710">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585203772710" />
+    <state width="1485" height="291" key="GridCell.Tab.0.right" timestamp="1585203772711">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585203772711" />
+    <state width="1485" height="220" key="GridCell.Tab.1.bottom" timestamp="1585196792517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="220" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585196792517" />
+    <state width="1485" height="220" key="GridCell.Tab.1.center" timestamp="1585196792517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="220" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585196792517" />
+    <state width="1485" height="220" key="GridCell.Tab.1.left" timestamp="1585196792516">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="220" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585196792516" />
+    <state width="1485" height="220" key="GridCell.Tab.1.right" timestamp="1585196792517">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1485" height="220" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585196792517" />
+    <state x="423" y="91" width="675" height="655" key="StructurePopup" timestamp="1585187693674">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="423" y="91" width="675" height="655" key="StructurePopup/0.0.1536.824@0.0.1536.824" timestamp="1585187693674" />
+    <state x="204" y="114" key="com.intellij.ide.util.TipDialog" timestamp="1585199005790">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="204" y="114" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585199005790" />
+    <state x="305" y="289" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1585183441195">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="305" y="289" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1585183441195" />
+    <state x="508" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585128984590">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="508" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1585128984590" />
+    <state x="205" y="89" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1585193295873">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="205" y="89" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1585193295873" />
+    <state x="756" y="175" key="extract.method.dialog" timestamp="1585196696989">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="756" y="175" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1585196696989" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1585190242685">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1585190242685" />
+    <state x="485" y="110" width="840" height="1034" key="search.everywhere.popup" timestamp="1585201905881">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="110" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1585201905881" />
+  </component>
+</project>
