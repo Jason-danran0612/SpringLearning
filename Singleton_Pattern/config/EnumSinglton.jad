@@ -1,0 +1,7 @@
+static
+{
+    INSTANCE = new EnumSingleton("INSTANCE", 0);
+    $VALUES = (new EnumSingleton[] {
+        INSTANCE;
+    });
+}
